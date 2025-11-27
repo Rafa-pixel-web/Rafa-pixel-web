@@ -1,8 +1,5 @@
 # 👋 Olá! Eu sou Rafael Barros Maia 🚀
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1YTBmZ2hyejQ1MXV1OG1wOXN3cHB6NjN2b2Nsd2M4dG9nZ2o2ZyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/QvO0s96Qc2E2I/giphy.gif" alt="GIF de Boas-vindas animado" width="200"/>
-</div>
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (18 anos) no **Centro Universitário UDF**. Minha paixão é transformar ideias em soluções digitais eficientes, com foco em lógica robusta e uma experiência de usuário impecável.
 
